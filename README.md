@@ -1,6 +1,6 @@
 # Dev Team
 
-Live website Link [Create React App](https://dev-team-assignment-8.netlify.app/).
+Live website Link [Dev Team](https://dev-team-assignment-8.netlify.app/).
 
 ## Available Scripts
 
