@@ -1,6 +1,6 @@
 # Dev Team
 
-Live website Link [Dev Team](https://dev-team-assignment-8.netlify.app/).
+Live website Link [https://dev-team-assignment-8.netlify.app](https://dev-team-assignment-8.netlify.app/).
 
 ## About this Website
 :arrow_right: This website is for hiriring web developers.\
