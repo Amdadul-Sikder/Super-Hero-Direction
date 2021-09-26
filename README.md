@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Dev Team
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live website Link [https://dev-team-assignment-8.netlify.app](https://dev-team-assignment-8.netlify.app/).
+
+## About this Website
+:arrow_right: This website is for hiriring web developers.\
+:arrow_right: For Productive Dev Team.\
+:arrow_right: For Next Level creativity.
 
 ## Available Scripts
 
