@@ -1,0 +1,58 @@
+[
+    {
+      "name": "Ani De",
+      "skills": "front end developer",
+      "age": 25,
+      "country": "Bangladesh",
+      "salary": 25000,
+      "img": "https://randomuser.me/api/portraits/men/73.jpg"
+    },
+    {
+      "name": "Jhon Doe",
+      "skills": "react developer",
+      "age": 27,
+      "country": "America",
+      "salary": 27000,
+      "img": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    {
+      "name": "Rasel Kobir",
+      "skills": "Bakend developer",
+      "age": 29,
+      "country": "Canada",
+      "salary": 30000,
+      "img": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "name": "Moni Roy",
+      "skills": "Node js developer",
+      "age": 30,
+      "country": "France",
+      "salary": 32000,
+      "img": "https://randomuser.me/api/portraits/women/81.jpg"
+    },
+    {
+      "name": "Mehedi Hasan",
+      "skills": "Full stak developer",
+      "age": 25,
+      "country": "Bangladesh",
+      "salary": 35000,
+      "img": "https://randomuser.me/api/portraits/men/11.jpg"
+    },
+    {
+      "name": "Nikita sen",
+      "skills": "JS developer",
+      "age": 28,
+      "country": "Italy",
+      "salary": 27000,
+      "img": "https://randomuser.me/api/portraits/women/8.jpg"
+    },
+    {
+      "name": "Noyona",
+      "skills": "Front end developer",
+      "age": 29,
+      "country": "India",
+      "salary": 25000,
+      "img": "https://randomuser.me/api/portraits/women/90.jpg"
+    }
+  ]
