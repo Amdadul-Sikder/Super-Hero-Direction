@@ -5,13 +5,13 @@
     padding: 10px 30px;
 }
 .member {
-    margin: 20px 10px;
+    margin: 20px;
     padding: 40px 20px;
     /* box-shadow: 0 5px #777; */
     /* border: 1px solid grey; */
     border-radius: 10px;
     cursor: pointer;
-    /* box-shadow: 0 0 10px #777; */
+    box-shadow: 5px 5px 8px #777;
     background-color: rgb(241, 239, 239);
 }
 .member img {
@@ -27,4 +27,7 @@
     /* transform: scale(1.01); */
     transition: .3s;
     box-shadow: 0 5px #777;
+}
+i.fas.fa-users {
+    margin-right: 10px;
 }

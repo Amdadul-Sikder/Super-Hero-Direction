@@ -1,7 +1,7 @@
 [
     {
       "name": "Ani De",
-      "skills": "front end developer",
+      "skills": "Frontend developer",
       "age": 25,
       "country": "Bangladesh",
       "salary": 25000,
@@ -9,7 +9,7 @@
     },
     {
       "name": "Jhon Doe",
-      "skills": "react developer",
+      "skills": "React developer",
       "age": 27,
       "country": "America",
       "salary": 27000,
@@ -17,7 +17,7 @@
     },
     {
       "name": "Rasel Kobir",
-      "skills": "Bakend developer",
+      "skills": "Backend developer",
       "age": 29,
       "country": "Canada",
       "salary": 30000,
@@ -33,7 +33,7 @@
     },
     {
       "name": "Mehedi Hasan",
-      "skills": "Full stak developer",
+      "skills": "Fullstack developer",
       "age": 25,
       "country": "Bangladesh",
       "salary": 35000,
@@ -49,10 +49,50 @@
     },
     {
       "name": "Noyona",
-      "skills": "Front end developer",
+      "skills": "Frontend developer",
       "age": 29,
       "country": "India",
       "salary": 25000,
       "img": "https://randomuser.me/api/portraits/women/90.jpg"
+    },
+    {
+      "name": "Kabir Sing",
+      "skills": "Backend developer",
+      "age": 25,
+      "country": "Nepal",
+      "salary": 30000,
+      "img": "https://randomuser.me/api/portraits/men/22.jpg"
+    },
+    {
+      "name": "Depok Roy",
+      "skills": "React developer",
+      "age": 29,
+      "country": "Srilonka",
+      "salary": 25000,
+      "img": "https://randomuser.me/api/portraits/men/65.jpg"
+    },
+    {
+      "name": "Anamika",
+      "skills": "Mernstack developer",
+      "age": 27,
+      "country": "India",
+      "salary": 26000,
+      "img": "https://randomuser.me/api/portraits/women/76.jpg"
+    },
+    {
+      "name": "Neha Boti",
+      "skills": "JS developer",
+      "age": 26,
+      "country": "Austria",
+      "salary": 29000,
+      "img": "https://randomuser.me/api/portraits/women/19.jpg"
+    },
+    {
+      "name": "Json Vai",
+      "skills": "Fullstack developer",
+      "age": 30,
+      "country": "Amerika",
+      "salary": 35000,
+      "img": "https://randomuser.me/api/portraits/men/24.jpg"
     }
   ]

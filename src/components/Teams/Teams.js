@@ -2,7 +2,7 @@ import React from 'react';
 import "./Teams.css";
 
 const Teams = (props) => {
-    console.log(props.member);
+    // console.log(props);
     const {name, skills, age, country, salary, img }=props.member;
 
     return (
@@ -16,7 +16,12 @@ const Teams = (props) => {
             <h6>Age: {age}</h6>
             <h6>Country: {country}</h6>
             <h6>Salary: {salary}</h6>
-            <button className="btn btn-primary">Add to Team</button>
+            <button 
+                onClick={()=>props.handleCart(props.member)}
+                className="btn btn-primary">
+                <i className="fas fa-users"></i>
+                Add to Team
+                </button>
             </div>
         </div>
     );
