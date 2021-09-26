@@ -2,6 +2,11 @@
 
 Live website Link [Dev Team](https://dev-team-assignment-8.netlify.app/).
 
+## About this Website
+This website is for hiriring web developers.
+For Productive Dev Team.
+For Next Level creativity.
+
 ## Available Scripts
 
 In the project directory, you can run:
